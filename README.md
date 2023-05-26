@@ -1,1 +1,1 @@
-Problems and tests comes from [FreeCodeCamp](https://www.freecodecamp.org/learn/project-euler/)
+Problems and tests come from [FreeCodeCamp](https://www.freecodecamp.org/learn/project-euler/)
